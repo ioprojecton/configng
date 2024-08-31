@@ -1,14 +1,14 @@
 Package: configng
-Version: 20240829-1541
+Version: 20240831-0136
 Architecture: all
 Maintainer: Igor Pecovnik <igor@armbian.com>
-Depends: bash
+Depends: bash, jq, whiptail
 Priority: optional
 Section: default
-Filename: pool/main/c/configng/configng_20240829-1541_all.deb
-Size: 99074
-SHA256: b10c4261248f8ccf29d86d4a2663bff1a29f3f69d57ba6b9adf2ed945947df95
-SHA1: ba6a3209f0dcbcb08e9d5cdb6940220f6591e88c
-MD5sum: ac2be65542e7aa34ebf79d0807d2c199
+Filename: pool/main/c/configng/configng_20240831-0136_all.deb
+Size: 99176
+SHA256: f85775a0232ab7563d755f2ecb08ca26b17a8a55c56079b2658d4cd18f4b4cc5
+SHA1: 7f0903f05b886a681a1faf898d9976183bebe062
+MD5sum: 6cf8381600e5cacf05d2294f2624de0f
 Description: Configng
 
