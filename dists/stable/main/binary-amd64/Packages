@@ -1,15 +1,15 @@
 Package: armbian-configng
-Version: 20240912-1406
+Version: 20240912-2334
 Architecture: all
 Maintainer: Igor Pecovnik <igor@armbian.com>
 Depends: bash, jq, whiptail
 Priority: optional
 Section: default
-Filename: pool/main/a/armbian-configng/armbian-configng_20240912-1406_all.deb
-Size: 103482
-SHA256: f05448b6496f1d3e0b2b0a5de2fb7b4b7b1846794093f1fcadf3a867d6ee0ae9
-SHA1: 6b2d6b40508a5a7be68ec54294edda87ed7b1644
-MD5sum: 7e7b4b9d48055e91a36a1b5d65a475cb
+Filename: pool/main/a/armbian-configng/armbian-configng_20240912-2334_all.deb
+Size: 104852
+SHA256: 518f829c319c70ccee6967b9d77cede6deb363a1e90c62e125a5b896f6bde6a6
+SHA1: a4944338ceffad70de98e7f095b56771d22140c2
+MD5sum: 178f0f89dcfbc515804709b7d0dab3ea
 Description: Configng
 
 Package: configng
